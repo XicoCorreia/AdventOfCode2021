@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class day2 {
+public class Day2 {
 
 	public static void main(String[] args) throws IOException {
 		int[] horDepAim = {0,0,0};
